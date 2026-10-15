@@ -30,6 +30,8 @@ SHOWS = [
      "slug": "kyunki-papa-kehte-hain"},
     {"name": "Hui Gumm Yaadein Ek Doctor Do Zindagiyaan", "id": 1790006770,
      "slug": "hui-gumm-yaadein-ek-doctor-do-zindagiyaan"},
+    {"name": "Kaun Banega Crorepati", "id": 1700000195,
+     "slug": "kaun-banega-crorepati"},
 ]
 
 API_BASE = (
